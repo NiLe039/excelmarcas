@@ -16,7 +16,6 @@ description: Genera la propuesta/cotización en PDF (1 página A4, estilo amaril
 |---|---|
 | Reel collab (guion, grabación, edición, entrega) | 2.306 |
 | Réplica en TikTok (adaptación del Reel) | 410 |
-| TikTok nativo (referencial, ≈ Reel × 18,4K/49,8K) | 850 |
 | 1 mes de pauta | 1.107 |
 | Grabación en campus (hasta 2 h 30 min) | 461 |
 

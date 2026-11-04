@@ -9,7 +9,7 @@
   },
   "columnas": ["Precio"],
   "items": [
-    {"nombre": "1 TikTok", "detalle": "Guion, grabación, edición y entrega", "precios": [850]},
+    {"nombre": "1 TikTok", "detalle": "Adaptación del Reel para TikTok", "precios": [410]},
     {"nombre": "1 mes de pauta", "detalle": "Uso del contenido como anuncio durante un mes", "precios": [1107]},
     {"nombre": "Grabación en campus", "detalle": "Hasta 2 horas 30 minutos", "precios": [461]}
   ],
