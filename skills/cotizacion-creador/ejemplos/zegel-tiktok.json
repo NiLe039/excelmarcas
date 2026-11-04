@@ -1,0 +1,23 @@
+{
+  "fecha": "Noviembre 2026",
+  "titulo": "Zegel × Nicolas Eichhorn",
+  "descripcion": "Contenido de negocios y emprendimiento para dar a conocer las carreras prácticas de Zegel. Cotización de acción TikTok, preparada para Camaleón Agency, a la atención de Farid Zaad.",
+  "creador": {
+    "nombre": "Nicolas Eichhorn", "nicho": "Negocios y finanzas", "rol": "Creador de contenido · Perú",
+    "instagram": {"seguidores": "49,8 K", "usuario": "@nico.eichhorn.l"},
+    "tiktok": {"seguidores": "18,4 K", "usuario": "@nicoeichhornl"}
+  },
+  "columnas": ["Precio"],
+  "items": [
+    {"nombre": "1 TikTok", "detalle": "Guion, grabación, edición y entrega", "precios": [850]},
+    {"nombre": "1 mes de pauta", "detalle": "Uso del contenido como anuncio durante un mes", "precios": [1107]},
+    {"nombre": "Grabación en campus", "detalle": "Hasta 2 horas 30 minutos", "precios": [461]}
+  ],
+  "nota": "Montos en soles, no incluyen IGV. Incluyen grabación, edición, entrega de los contenidos y todos los gastos necesarios para su creación. Cada acción se cotiza por separado.",
+  "condiciones": [
+    ["Competencia", "sin campañas ni contratos vigentes con marcas de la competencia, ni en los últimos 3 meses."],
+    ["Pago", "a 45 días calendario, en soles, desde la emisión de la factura. La factura se emite dentro de los 7 días posteriores al envío de resultados, una vez recibida la OC del cliente."],
+    ["Facturación", "el perfil cuenta con capacidad de emitir factura."],
+    ["Contenido", "propuesta creativa propia y orgánica, respetando los lineamientos y objetivos de comunicación que brinde la marca."]
+  ]
+}
